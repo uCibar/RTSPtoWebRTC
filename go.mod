@@ -1,4 +1,4 @@
-module mod
+module github.com/uCibar/RTSPtoWebRTC
 
 go 1.13
 
